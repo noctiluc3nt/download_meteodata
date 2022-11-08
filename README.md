@@ -1,6 +1,8 @@
 # Download meteorological data from different sources
 
 Scripts:
+- get_carra.py: downloading CARRA reanalysis on model levels
+- get_cryosat2.py: downloading monthly sea ice thickness derived from CryoSat2
 - get_era5.py: downloading ERA5 reanalysis on pressure levels
 - get_metno.py: downloading station observations from met.no
 - get_metno.r: downloading station observations from met.no
